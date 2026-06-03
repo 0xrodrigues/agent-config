@@ -58,3 +58,8 @@ For each repository method in the flow:
 
 ### Open Questions
 List anything ambiguous or that could not be fully traced during exploration.
+
+### Output File
+Save the report as `/docs/explorer/<endpoint-slug>-<YYYY-MM-DD>.md`
+
+Example: `/docs/explorer/single-rate-mirror-2026-06-03.md`
