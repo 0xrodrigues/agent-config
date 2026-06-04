@@ -69,6 +69,12 @@ For each exception thrown or caught in the flow:
 ### Open Questions
 List anything ambiguous or that could not be fully traced during exploration.
 
+### Output Language
+Write the entire report in the same language used by the user in the prompt.
+If the prompt is in Portuguese, the report must be in Portuguese.
+If the prompt is in English, the report must be in English.
+Do not default to English regardless of the language used in this agent file.
+
 ### Output File
 Save the report as `/docs/explorer/<endpoint-slug>-<YYYY-MM-DD>.md`
 
