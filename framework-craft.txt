@@ -1,0 +1,9 @@
+O Framework: CRAFT
+
+Proponho nomear sua metodologia CRAFT — Controlled, Review-gated, Artifact-first development with Focused Tools.
+
+C — Context   → Eu defino o contexto antes do agente tocar em qualquer coisa
+R — Review    → Artefato gerado, eu revejo antes de continuar
+A — Artifact  → Código nunca é o primeiro entregável. Documento é.
+F — Focused   → Agente com escopo restrito, uma responsabilidade por vez
+T — Test      → Nada sai sem verificação mínima funcional

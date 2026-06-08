@@ -1,0 +1,13 @@
+Seu modelo atual tem três características que o diferenciam fundamentalmente do vibe coding:
+
+1. Artefatos antes de código
+Você não pede código diretamente. Você pede documentos que descrevem o que vai ser feito antes de fazer. 
+Isso cria um checkpoint de decisão humana antes do trabalho caro.
+
+2. Agentes especializados, não generalistas
+Seus "agentes" (markdowns de instrução) têm escopo restrito. Eles fazem uma coisa bem, não tudo de uma vez. 
+Isso reduz deriva de contexto.
+
+3. Você como árbitro de estado
+Em sistemas legados, o contexto real do sistema vive na sua cabeça, não no codebase. 
+O agente não sabe o que não está documentado. Você sabe. Então você mantém o fio.
